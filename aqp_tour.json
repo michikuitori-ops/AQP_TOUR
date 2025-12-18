@@ -1,402 +1,52 @@
 [
-  {
-    "id": 1,
-    "Nombre": "Seth Egdale",
-    "Telefono": "(555) 809-8449",
-    "Primer_Lugar": "Middletown, Ohio, United States",
-    "Tercer_Lugar": "Allentown, Pennsylvania, United States",
-    "Ssegundo_Lugar": "Seattle, Washington, United States"
-  },
-  {
-    "id": 2,
-    "Nombre": "Anita Roddie",
-    "Telefono": "(555) 766-6691",
-    "Primer_Lugar": "Jackson, Mississippi, United States",
-    "Tercer_Lugar": "Iowa City, Iowa, United States",
-    "Ssegundo_Lugar": "Meridian, Mississippi, United States"
-  },
-  {
-    "id": 3,
-    "Nombre": "Katie Eilles",
-    "Telefono": "(555) 287-3084",
-    "Primer_Lugar": "Missouri City, Texas, United States",
-    "Tercer_Lugar": "Lee's Summit, Missouri, United States",
-    "Ssegundo_Lugar": "Redlands, California, United States"
-  },
-  {
-    "id": 4,
-    "Nombre": "Eugene Halward",
-    "Telefono": "(555) 758-7982",
-    "Primer_Lugar": "The Colony, Texas, United States",
-    "Tercer_Lugar": "Westerville, Ohio, United States",
-    "Ssegundo_Lugar": "Birmingham, Alabama, United States"
-  },
-  {
-    "id": 5,
-    "Nombre": "Christoph Fraschetti",
-    "Telefono": "(555) 277-9514",
-    "Primer_Lugar": "San Bruno, California, United States",
-    "Tercer_Lugar": "Davenport, Iowa, United States",
-    "Ssegundo_Lugar": "Oak Lawn, Illinois, United States"
-  },
-  {
-    "id": 6,
-    "Nombre": "Tory Cunliffe",
-    "Telefono": "(555) 894-7986",
-    "Primer_Lugar": "Gilroy, California, United States",
-    "Tercer_Lugar": "Ankeny, Iowa, United States",
-    "Ssegundo_Lugar": "Marana, Arizona, United States"
-  },
-  {
-    "id": 7,
-    "Nombre": "Michael Gecks",
-    "Telefono": "(555) 219-4035",
-    "Primer_Lugar": "Burlington, Vermont, United States",
-    "Tercer_Lugar": "Brownsville, Texas, United States",
-    "Ssegundo_Lugar": "Nampa, Idaho, United States"
-  },
-  {
-    "id": 8,
-    "Nombre": "Geno Devanny",
-    "Telefono": "(555) 201-3913",
-    "Primer_Lugar": "Mount Prospect, Illinois, United States",
-    "Tercer_Lugar": "Keizer, Oregon, United States",
-    "Ssegundo_Lugar": "Santa Rosa, California, United States"
-  },
-  {
-    "id": 9,
-    "Nombre": "Beatrice Blanchflower",
-    "Telefono": "(555) 114-5740",
-    "Primer_Lugar": "Buffalo Grove, Illinois, United States",
-    "Tercer_Lugar": "Waukesha, Wisconsin, United States",
-    "Ssegundo_Lugar": "Malden, Massachusetts, United States"
-  },
-  {
-    "id": 10,
-    "Nombre": "Lexy Zannolli",
-    "Telefono": "(555) 444-1227",
-    "Primer_Lugar": "Lacey, Washington, United States",
-    "Tercer_Lugar": "San Ramon, California, United States",
-    "Ssegundo_Lugar": "Boston, Massachusetts, United States"
-  },
-  {
-    "id": 11,
-    "Nombre": "Mona Ravillas",
-    "Telefono": "(555) 133-7752",
-    "Primer_Lugar": "Federal Way, Washington, United States",
-    "Tercer_Lugar": "Shoreline, Washington, United States",
-    "Ssegundo_Lugar": "Harrisburg, Pennsylvania, United States"
-  },
-  {
-    "id": 12,
-    "Nombre": "Scarlett Hamsley",
-    "Telefono": "(555) 903-4946",
-    "Primer_Lugar": "Sarasota, Florida, United States",
-    "Tercer_Lugar": "Concord, California, United States",
-    "Ssegundo_Lugar": "Chesapeake, Virginia, United States"
-  },
-  {
-    "id": 13,
-    "Nombre": "Elisha West-Frimley",
-    "Telefono": "(555) 359-9882",
-    "Primer_Lugar": "Attleboro, Massachusetts, United States",
-    "Tercer_Lugar": "New Britain, Connecticut, United States",
-    "Ssegundo_Lugar": "Tinley Park, Illinois, United States"
-  },
-  {
-    "id": 14,
-    "Nombre": "Elisha Werner",
-    "Telefono": "(555) 772-8172",
-    "Primer_Lugar": "Greeley, Colorado, United States",
-    "Tercer_Lugar": "Streamwood, Illinois, United States",
-    "Ssegundo_Lugar": "Sammamish, Washington, United States"
-  },
-  {
-    "id": 15,
-    "Nombre": "Lyndsey Gisburn",
-    "Telefono": "(555) 998-4303",
-    "Primer_Lugar": "Lake Forest, California, United States",
-    "Tercer_Lugar": "Waukesha, Wisconsin, United States",
-    "Ssegundo_Lugar": "Lakewood, Ohio, United States"
-  },
-  {
-    "id": 16,
-    "Nombre": "Sela McQuarter",
-    "Telefono": "(555) 515-3265",
-    "Primer_Lugar": "Temecula, California, United States",
-    "Tercer_Lugar": "Panama City, Florida, United States",
-    "Ssegundo_Lugar": "Chico, California, United States"
-  },
-  {
-    "id": 17,
-    "Nombre": "Andre Rawlingson",
-    "Telefono": "(555) 538-2785",
-    "Primer_Lugar": "Worcester, Massachusetts, United States",
-    "Tercer_Lugar": "Lehi, Utah, United States",
-    "Ssegundo_Lugar": "Salem, Massachusetts, United States"
-  },
-  {
-    "id": 18,
-    "Nombre": "Jennilee Shields",
-    "Telefono": "(555) 452-7894",
-    "Primer_Lugar": "Plainfield, New Jersey, United States",
-    "Tercer_Lugar": "Rowlett, Texas, United States",
-    "Ssegundo_Lugar": "Yuma, Arizona, United States"
-  },
-  {
-    "id": 19,
-    "Nombre": "Chloe Martinon",
-    "Telefono": "(555) 922-9200",
-    "Primer_Lugar": "Middletown, Ohio, United States",
-    "Tercer_Lugar": "Wauwatosa, Wisconsin, United States",
-    "Ssegundo_Lugar": "Puyallup, Washington, United States"
-  },
-  {
-    "id": 20,
-    "Nombre": "Matthew Borth",
-    "Telefono": "(555) 310-7776",
-    "Primer_Lugar": "Winter Garden, Florida, United States",
-    "Tercer_Lugar": "Collierville, Tennessee, United States",
-    "Ssegundo_Lugar": "Pawtucket, Rhode Island, United States"
-  },
-  {
-    "id": 21,
-    "Nombre": "Myca Hammerson",
-    "Telefono": "(555) 202-9536",
-    "Primer_Lugar": "Oakland Park, Florida, United States",
-    "Tercer_Lugar": "Cleveland Heights, Ohio, United States",
-    "Ssegundo_Lugar": "Sunnyvale, California, United States"
-  },
-  {
-    "id": 22,
-    "Nombre": "Trixy Rawlingson",
-    "Telefono": "(555) 595-6962",
-    "Primer_Lugar": "Gastonia, North Carolina, United States",
-    "Tercer_Lugar": "Lubbock, Texas, United States",
-    "Ssegundo_Lugar": "Detroit, Michigan, United States"
-  },
-  {
-    "id": 23,
-    "Nombre": "Ashil MacDowal",
-    "Telefono": "(555) 643-9877",
-    "Primer_Lugar": "Kansas City, Missouri, United States",
-    "Tercer_Lugar": "Westerville, Ohio, United States",
-    "Ssegundo_Lugar": "Arvada, Colorado, United States"
-  },
-  {
-    "id": 24,
-    "Nombre": "Dave Hammerson",
-    "Telefono": "(555) 388-5131",
-    "Primer_Lugar": "Pflugerville, Texas, United States",
-    "Tercer_Lugar": "Elkhart, Indiana, United States",
-    "Ssegundo_Lugar": "Philadelphia, Pennsylvania, United States"
-  },
-  {
-    "id": 25,
-    "Nombre": "Smith Kersey",
-    "Telefono": "(555) 532-8179",
-    "Primer_Lugar": "Schaumburg, Illinois, United States",
-    "Tercer_Lugar": "Tyler, Texas, United States",
-    "Ssegundo_Lugar": "East Providence, Rhode Island, United States"
-  },
-  {
-    "id": 26,
-    "Nombre": "Binni Meddows",
-    "Telefono": "(555) 824-2874",
-    "Primer_Lugar": "West Jordan, Utah, United States",
-    "Tercer_Lugar": "Ames, Iowa, United States",
-    "Ssegundo_Lugar": "Rowlett, Texas, United States"
-  },
-  {
-    "id": 27,
-    "Nombre": "Etienne Bastide",
-    "Telefono": "(555) 858-2384",
-    "Primer_Lugar": "South San Francisco, California, United States",
-    "Tercer_Lugar": "Palm Desert, California, United States",
-    "Ssegundo_Lugar": "Peachtree Corners, Georgia, United States"
-  },
-  {
-    "id": 28,
-    "Nombre": "Marinna Zannolli",
-    "Telefono": "(555) 445-9208",
-    "Primer_Lugar": "Holyoke, Massachusetts, United States",
-    "Tercer_Lugar": "Keizer, Oregon, United States",
-    "Ssegundo_Lugar": "Passaic, New Jersey, United States"
-  },
-  {
-    "id": 29,
-    "Nombre": "Katuscha Eilles",
-    "Telefono": "(555) 665-5683",
-    "Primer_Lugar": "Redwood City, California, United States",
-    "Tercer_Lugar": "Rowlett, Texas, United States",
-    "Ssegundo_Lugar": "Diamond Bar, California, United States"
-  },
-  {
-    "id": 30,
-    "Nombre": "Lydie Haighton",
-    "Telefono": "(555) 503-5320",
-    "Primer_Lugar": "Paterson, New Jersey, United States",
-    "Tercer_Lugar": "Allen, Texas, United States",
-    "Ssegundo_Lugar": "Huntington Beach, California, United States"
-  },
-  {
-    "id": 31,
-    "Nombre": "Rickey Haddow",
-    "Telefono": "(555) 947-9561",
-    "Primer_Lugar": "Boston, Massachusetts, United States",
-    "Tercer_Lugar": "Noblesville, Indiana, United States",
-    "Ssegundo_Lugar": "Haltom City, Texas, United States"
-  },
-  {
-    "id": 32,
-    "Nombre": "Heath Masarrat",
-    "Telefono": "(555) 580-8896",
-    "Primer_Lugar": "Honolulu, Hawaii, United States",
-    "Tercer_Lugar": "Pasadena, California, United States",
-    "Ssegundo_Lugar": "Reading, Pennsylvania, United States"
-  },
-  {
-    "id": 33,
-    "Nombre": "Gusty Chavey",
-    "Telefono": "(555) 276-2330",
-    "Primer_Lugar": "Longview, Texas, United States",
-    "Tercer_Lugar": "Yonkers, New York, United States",
-    "Ssegundo_Lugar": "Ontario, California, United States"
-  },
-  {
-    "id": 34,
-    "Nombre": "Gay Blackmoor",
-    "Telefono": "(555) 742-1276",
-    "Primer_Lugar": "Jonesboro, Arkansas, United States",
-    "Tercer_Lugar": "Palm Bay, Florida, United States",
-    "Ssegundo_Lugar": "Bentonville, Arkansas, United States"
-  },
-  {
-    "id": 35,
-    "Nombre": "Micah Hefforde",
-    "Telefono": "(555) 244-1327",
-    "Primer_Lugar": "Castle Rock, Colorado, United States",
-    "Tercer_Lugar": "Collierville, Tennessee, United States",
-    "Ssegundo_Lugar": "Dayton, Ohio, United States"
-  },
-  {
-    "id": 36,
-    "Nombre": "Nicholas Manktelow",
-    "Telefono": "(555) 116-2542",
-    "Primer_Lugar": "Florence, Alabama, United States",
-    "Tercer_Lugar": "Hoffman Estates, Illinois, United States",
-    "Ssegundo_Lugar": "Longmont, Colorado, United States"
-  },
-  {
-    "id": 37,
-    "Nombre": "Ettie Kellough",
-    "Telefono": "(555) 187-9267",
-    "Primer_Lugar": "Pacifica, California, United States",
-    "Tercer_Lugar": "Virginia Beach, Virginia, United States",
-    "Ssegundo_Lugar": "Oakley, California, United States"
-  },
-  {
-    "id": 38,
-    "Nombre": "Fabien Guerre",
-    "Telefono": "(555) 210-1496",
-    "Primer_Lugar": "Carrollton, Texas, United States",
-    "Tercer_Lugar": "Jacksonville, North Carolina, United States",
-    "Ssegundo_Lugar": "Greeley, Colorado, United States"
-  },
-  {
-    "id": 39,
-    "Nombre": "Vivie Manktelow",
-    "Telefono": "(555) 726-7413",
-    "Primer_Lugar": "Fort Lauderdale, Florida, United States",
-    "Tercer_Lugar": "Bend, Oregon, United States",
-    "Ssegundo_Lugar": "Moorhead, Minnesota, United States"
-  },
-  {
-    "id": 40,
-    "Nombre": "Heath Ludron",
-    "Telefono": "(555) 849-7875",
-    "Primer_Lugar": "Monrovia, California, United States",
-    "Tercer_Lugar": "Ann Arbor, Michigan, United States",
-    "Ssegundo_Lugar": "Rockwall, Texas, United States"
-  },
-  {
-    "id": 41,
-    "Nombre": "Hildagarde Hucklesby",
-    "Telefono": "(555) 733-1465",
-    "Primer_Lugar": "Sacramento, California, United States",
-    "Tercer_Lugar": "Battle Creek, Michigan, United States",
-    "Ssegundo_Lugar": "Kettering, Ohio, United States"
-  },
-  {
-    "id": 42,
-    "Nombre": "Ranique Boswell",
-    "Telefono": "(555) 673-7186",
-    "Primer_Lugar": "Beloit, Wisconsin, United States",
-    "Tercer_Lugar": "Rocklin, California, United States",
-    "Ssegundo_Lugar": "Fort Pierce, Florida, United States"
-  },
-  {
-    "id": 43,
-    "Nombre": "Ferdinande Boshers",
-    "Telefono": "(555) 272-3396",
-    "Primer_Lugar": "Duluth, Minnesota, United States",
-    "Tercer_Lugar": "Wheeling, Illinois, United States",
-    "Ssegundo_Lugar": "Casa Grande, Arizona, United States"
-  },
-  {
-    "id": 44,
-    "Nombre": "Ferdinande Pidler",
-    "Telefono": "(555) 851-9656",
-    "Primer_Lugar": "Pittsburgh, Pennsylvania, United States",
-    "Tercer_Lugar": "Apopka, Florida, United States",
-    "Ssegundo_Lugar": "Waukesha, Wisconsin, United States"
-  },
-  {
-    "id": 45,
-    "Nombre": "Henderson Martinon",
-    "Telefono": "(555) 833-7443",
-    "Primer_Lugar": "Santa Fe, New Mexico, United States",
-    "Tercer_Lugar": "Berkeley, California, United States",
-    "Ssegundo_Lugar": "Jurupa Valley, California, United States"
-  },
-  {
-    "id": 46,
-    "Nombre": "Itch Anersen",
-    "Telefono": "(555) 426-8678",
-    "Primer_Lugar": "Fargo, North Dakota, United States",
-    "Tercer_Lugar": "Valdosta, Georgia, United States",
-    "Ssegundo_Lugar": "Burbank, California, United States"
-  },
-  {
-    "id": 47,
-    "Nombre": "Phylis Aitken",
-    "Telefono": "(555) 590-1884",
-    "Primer_Lugar": "Lafayette, Louisiana, United States",
-    "Tercer_Lugar": "Titusville, Florida, United States",
-    "Ssegundo_Lugar": "Oakley, California, United States"
-  },
-  {
-    "id": 48,
-    "Nombre": "Filmer Biggin",
-    "Telefono": "(555) 941-6512",
-    "Primer_Lugar": "Prescott, Arizona, United States",
-    "Tercer_Lugar": "Concord, New Hampshire, United States",
-    "Ssegundo_Lugar": "Wilmington, North Carolina, United States"
-  },
-  {
-    "id": 49,
-    "Nombre": "Beatrice Kaygill",
-    "Telefono": "(555) 267-3155",
-    "Primer_Lugar": "Lancaster, Pennsylvania, United States",
-    "Tercer_Lugar": "New Berlin, Wisconsin, United States",
-    "Ssegundo_Lugar": "Vallejo, California, United States"
-  },
-  {
-    "id": 50,
-    "Nombre": "Renato Devanny",
-    "Telefono": "(555) 902-2985",
-    "Primer_Lugar": "Stamford, Connecticut, United States",
-    "Tercer_Lugar": "Eastvale, California, United States",
-    "Ssegundo_Lugar": "Maplewood, Minnesota, United States"
-  }
+  { "id": 1, "Nombre": "Juan Carlos Perez", "Telefono": "958123456", "Destino": "Cañón del Colca", "Fecha": "2025-01-15", "Precio": 120.50 },
+  { "id": 2, "Nombre": "Maria Jose Vizcarra", "Telefono": "959987654", "Destino": "Monasterio de Santa Catalina", "Fecha": "2025-01-16", "Precio": 40.00 },
+  { "id": 3, "Nombre": "Luis Alberto Ramos", "Telefono": "957112233", "Destino": "Mirador de Yanahuara", "Fecha": "2025-01-10", "Precio": 15.00 },
+  { "id": 4, "Nombre": "Ana Sofia Torres", "Telefono": "951445566", "Destino": "Cañón del Colca", "Fecha": "2025-02-01", "Precio": 120.50 },
+  { "id": 5, "Nombre": "Carlos Manuel Soto", "Telefono": "950778899", "Destino": "Monasterio de Santa Catalina", "Fecha": "2025-01-20", "Precio": 40.00 },
+  { "id": 6, "Nombre": "Elena Guisela Flores", "Telefono": "954223344", "Destino": "Mirador de Yanahuara", "Fecha": "2025-01-22", "Precio": 15.00 },
+  { "id": 7, "Nombre": "Roberto Carlos Diaz", "Telefono": "953556677", "Destino": "Cañón del Colca", "Fecha": "2025-01-25", "Precio": 120.50 },
+  { "id": 8, "Nombre": "Patricia Jimenez", "Telefono": "952889900", "Destino": "Monasterio de Santa Catalina", "Fecha": "2025-01-28", "Precio": 40.00 },
+  { "id": 9, "Nombre": "Fernando de la Fuente", "Telefono": "955334455", "Destino": "Mirador de Yanahuara", "Fecha": "2025-02-05", "Precio": 15.00 },
+  { "id": 10, "Nombre": "Gloria Estefan Choque", "Telefono": "956667788", "Destino": "Cañón del Colca", "Fecha": "2025-02-10", "Precio": 120.50 },
+  { "id": 11, "Nombre": "Mario Vargas Llosa Jr", "Telefono": "941223311", "Destino": "Monasterio de Santa Catalina", "Fecha": "2025-01-12", "Precio": 40.00 },
+  { "id": 12, "Nombre": "Silvia Pasquel", "Telefono": "942556622", "Destino": "Mirador de Yanahuara", "Fecha": "2025-01-14", "Precio": 15.00 },
+  { "id": 13, "Nombre": "Christian Meier", "Telefono": "943889933", "Destino": "Cañón del Colca", "Fecha": "2025-02-14", "Precio": 120.50 },
+  { "id": 14, "Nombre": "Gianmarco Zignago", "Telefono": "944112244", "Destino": "Monasterio de Santa Catalina", "Fecha": "2025-02-15", "Precio": 40.00 },
+  { "id": 15, "Nombre": "Paolo Guerrero", "Telefono": "945445555", "Destino": "Mirador de Yanahuara", "Fecha": "2025-03-01", "Precio": 15.00 },
+  { "id": 16, "Nombre": "Jefferson Farfan", "Telefono": "946778866", "Destino": "Cañón del Colca", "Fecha": "2025-03-05", "Precio": 120.50 },
+  { "id": 17, "Nombre": "Lapadula Rossi", "Telefono": "947112277", "Destino": "Monasterio de Santa Catalina", "Fecha": "2025-03-10", "Precio": 40.00 },
+  { "id": 18, "Nombre": "Edison Flores", "Telefono": "948445588", "Destino": "Mirador de Yanahuara", "Fecha": "2025-01-05", "Precio": 15.00 },
+  { "id": 19, "Nombre": "Renato Tapia", "Telefono": "949778899", "Destino": "Cañón del Colca", "Fecha": "2025-01-08", "Precio": 120.50 },
+  { "id": 20, "Nombre": "Andre Carrillo", "Telefono": "940112200", "Destino": "Monasterio de Santa Catalina", "Fecha": "2025-01-11", "Precio": 40.00 },
+  { "id": 21, "Nombre": "Pedro Gallese", "Telefono": "931223311", "Destino": "Mirador de Yanahuara", "Fecha": "2025-02-20", "Precio": 15.00 },
+  { "id": 22, "Nombre": "Yoshimar Yotun", "Telefono": "932556622", "Destino": "Cañón del Colca", "Fecha": "2025-02-22", "Precio": 120.50 },
+  { "id": 23, "Nombre": "Christian Cueva", "Telefono": "933889933", "Destino": "Monasterio de Santa Catalina", "Fecha": "2025-02-25", "Precio": 40.00 },
+  { "id": 24, "Nombre": "Luis Advincula", "Telefono": "934112244", "Destino": "Mirador de Yanahuara", "Fecha": "2025-03-15", "Precio": 15.00 },
+  { "id": 25, "Nombre": "Miguel Trauco", "Telefono": "935445555", "Destino": "Cañón del Colca", "Fecha": "2025-03-18", "Precio": 120.50 },
+  { "id": 26, "Nombre": "Anderson Santamaria", "Telefono": "936778866", "Destino": "Monasterio de Santa Catalina", "Fecha": "2025-03-20", "Precio": 40.00 },
+  { "id": 27, "Nombre": "Alexander Callens", "Telefono": "937112277", "Destino": "Mirador de Yanahuara", "Fecha": "2025-01-30", "Precio": 15.00 },
+  { "id": 28, "Nombre": "Marcos Lopez", "Telefono": "938445588", "Destino": "Cañón del Colca", "Fecha": "2025-02-12", "Precio": 120.50 },
+  { "id": 29, "Nombre": "Wilder Cartagena", "Telefono": "939778899", "Destino": "Monasterio de Santa Catalina", "Fecha": "2025-02-14", "Precio": 40.00 },
+  { "id": 30, "Nombre": "Sergio Peña", "Telefono": "930112200", "Destino": "Mirador de Yanahuara", "Fecha": "2025-02-16", "Precio": 15.00 },
+  { "id": 31, "Nombre": "Raul Ruidiaz", "Telefono": "921223311", "Destino": "Cañón del Colca", "Fecha": "2025-03-22", "Precio": 120.50 },
+  { "id": 32, "Nombre": "Santiago Ormeño", "Telefono": "922556622", "Destino": "Monasterio de Santa Catalina", "Fecha": "2025-03-24", "Precio": 40.00 },
+  { "id": 33, "Nombre": "Gabriel Costa", "Telefono": "923889933", "Destino": "Mirador de Yanahuara", "Fecha": "2025-01-18", "Precio": 15.00 },
+  { "id": 34, "Nombre": "Raziel Garcia", "Telefono": "924112244", "Destino": "Cañón del Colca", "Fecha": "2025-01-21", "Precio": 120.50 },
+  { "id": 35, "Nombre": "Jairo Concha", "Telefono": "925445555", "Destino": "Monasterio de Santa Catalina", "Fecha": "2025-01-23", "Precio": 40.00 },
+  { "id": 36, "Nombre": "Horacio Calcaterra", "Telefono": "926778866", "Destino": "Mirador de Yanahuara", "Fecha": "2025-02-28", "Precio": 15.00 },
+  { "id": 37, "Nombre": "Carlos Zambrano", "Telefono": "927112277", "Destino": "Cañón del Colca", "Fecha": "2025-03-25", "Precio": 120.50 },
+  { "id": 38, "Nombre": "Gerson Valenzuela", "Telefono": "928445588", "Destino": "Monasterio de Santa Catalina", "Fecha": "2025-03-28", "Precio": 40.00 },
+  { "id": 39, "Nombre": "Bernardo Cuesta", "Telefono": "929778899", "Destino": "Mirador de Yanahuara", "Fecha": "2025-01-02", "Precio": 15.00 },
+  { "id": 40, "Nombre": "Alexis Arias", "Telefono": "920112200", "Destino": "Cañón del Colca", "Fecha": "2025-01-04", "Precio": 120.50 },
+  { "id": 41, "Nombre": "Kenji Cabrera", "Telefono": "911223311", "Destino": "Monasterio de Santa Catalina", "Fecha": "2025-01-06", "Precio": 40.00 },
+  { "id": 42, "Nombre": "Paolo Reyna", "Telefono": "912556622", "Destino": "Mirador de Yanahuara", "Fecha": "2025-02-18", "Precio": 15.00 },
+  { "id": 43, "Nombre": "Alejandro Ramos", "Telefono": "913889933", "Destino": "Cañón del Colca", "Fecha": "2025-02-20", "Precio": 120.50 },
+  { "id": 44, "Nombre": "Tomas Martinez", "Telefono": "914112244", "Destino": "Monasterio de Santa Catalina", "Fecha": "2025-02-22", "Precio": 40.00 },
+  { "id": 45, "Nombre": "Walter Tandazo", "Telefono": "915445555", "Destino": "Mirador de Yanahuara", "Fecha": "2025-03-12", "Precio": 15.00 },
+  { "id": 46, "Nombre": "Jean Pierre Archimbaud", "Telefono": "916778866", "Destino": "Cañón del Colca", "Fecha": "2025-03-14", "Precio": 120.50 },
+  { "id": 47, "Nombre": "Leonel Galeano", "Telefono": "917112277", "Destino": "Monasterio de Santa Catalina", "Fecha": "2025-03-16", "Precio": 40.00 },
+  { "id": 48, "Nombre": "Cristian Bordacahar", "Telefono": "918445588", "Destino": "Mirador de Yanahuara", "Fecha": "2025-01-26", "Precio": 15.00 },
+  { "id": 49, "Nombre": "Sebastian Cavero", "Telefono": "919778899", "Destino": "Cañón del Colca", "Fecha": "2025-01-29", "Precio": 120.50 },
+  { "id": 50, "Nombre": "Jefferson Caceres", "Telefono": "910112200", "Destino": "Monasterio de Santa Catalina", "Fecha": "2025-02-10", "Precio": 40.00 }
 ]
